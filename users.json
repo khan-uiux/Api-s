@@ -6,6 +6,7 @@
       "age": 25,
       "email": "irfan.khan@example.com",
       "skills": ["HTML", "CSS", "JavaScript"],
+      "profilePicture": "https://randomuser.me/api/portraits/men/1.jpg",
       "address": {
         "city": "Sohna",
         "state": "Haryana"
@@ -17,6 +18,7 @@
       "age": 27,
       "email": "ayesha.sharma@example.com",
       "skills": ["React", "Node.js", "MongoDB"],
+      "profilePicture": "https://randomuser.me/api/portraits/women/2.jpg",
       "address": {
         "city": "Mumbai",
         "state": "Maharashtra"
@@ -24,10 +26,11 @@
     },
     {
       "id": 3,
-      "name": "Rahul Verma",
+      "name": "Rahul Gupta",
       "age": 30,
-      "email": "rahul.verma@example.com",
-      "skills": ["Python", "Django", "Machine Learning"],
+      "email": "rahul.gupta@example.com",
+      "skills": ["Angular", "TypeScript", "RxJS"],
+      "profilePicture": "https://randomuser.me/api/portraits/men/3.jpg",
       "address": {
         "city": "Delhi",
         "state": "Delhi"
@@ -35,76 +38,83 @@
     },
     {
       "id": 4,
-      "name": "Sofia Ali",
+      "name": "Sneha Patel",
       "age": 23,
-      "email": "sofia.ali@example.com",
-      "skills": ["Figma", "Photoshop", "UI/UX Design"],
-      "address": {
-        "city": "Hyderabad",
-        "state": "Telangana"
-      }
-    },
-    {
-      "id": 5,
-      "name": "Arjun Singh",
-      "age": 29,
-      "email": "arjun.singh@example.com",
-      "skills": ["Java", "Spring Boot", "Hibernate"],
-      "address": {
-        "city": "Pune",
-        "state": "Maharashtra"
-      }
-    },
-    {
-      "id": 6,
-      "name": "Priya Menon",
-      "age": 26,
-      "email": "priya.menon@example.com",
-      "skills": ["Angular", "TypeScript", "RxJS"],
-      "address": {
-        "city": "Bangalore",
-        "state": "Karnataka"
-      }
-    },
-    {
-      "id": 7,
-      "name": "Mohammed Faisal",
-      "age": 24,
-      "email": "faisal.mohammed@example.com",
-      "skills": ["PHP", "Laravel", "MySQL"],
-      "address": {
-        "city": "Lucknow",
-        "state": "Uttar Pradesh"
-      }
-    },
-    {
-      "id": 8,
-      "name": "Anjali Gupta",
-      "age": 28,
-      "email": "anjali.gupta@example.com",
-      "skills": ["SEO", "Content Writing", "Digital Marketing"],
-      "address": {
-        "city": "Jaipur",
-        "state": "Rajasthan"
-      }
-    },
-    {
-      "id": 9,
-      "name": "Ravi Patel",
-      "age": 31,
-      "email": "ravi.patel@example.com",
-      "skills": ["C#", ".NET Core", "Azure"],
+      "email": "sneha.patel@example.com",
+      "skills": ["Vue.js", "Nuxt.js", "CSS"],
+      "profilePicture": "https://randomuser.me/api/portraits/women/4.jpg",
       "address": {
         "city": "Ahmedabad",
         "state": "Gujarat"
       }
     },
     {
+      "id": 5,
+      "name": "Mohammed Ali",
+      "age": 28,
+      "email": "mohammed.ali@example.com",
+      "skills": ["Python", "Django", "Flask"],
+      "profilePicture": "https://randomuser.me/api/portraits/men/5.jpg",
+      "address": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Priya Kapoor",
+      "age": 26,
+      "email": "priya.kapoor@example.com",
+      "skills": ["Java", "Spring Boot", "Hibernate"],
+      "profilePicture": "https://randomuser.me/api/portraits/women/6.jpg",
+      "address": {
+        "city": "Pune",
+        "state": "Maharashtra"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Arjun Verma",
+      "age": 29,
+      "email": "arjun.verma@example.com",
+      "skills": ["C#", ".NET", "Azure"],
+      "profilePicture": "https://randomuser.me/api/portraits/men/7.jpg",
+      "address": {
+        "city": "Bangalore",
+        "state": "Karnataka"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Riya Das",
+      "age": 24,
+      "email": "riya.das@example.com",
+      "skills": ["PHP", "Laravel", "MySQL"],
+      "profilePicture": "https://randomuser.me/api/portraits/women/8.jpg",
+      "address": {
+        "city": "Kolkata",
+        "state": "West Bengal"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Vikram Singh",
+      "age": 32,
+      "email": "vikram.singh@example.com",
+      "skills": ["Ruby", "Rails", "PostgreSQL"],
+      "profilePicture": "https://randomuser.me/api/portraits/men/9.jpg",
+      "address": {
+        "city": "Jaipur",
+        "state": "Rajasthan"
+      }
+    },
+    {
       "id": 10,
-      "name": "Neha Reddy",
+      "name": "Neha Jain",
       "age": 22,
-      "email": "neha.reddy@example.com",
-      "skills": ["Flutter", "Dart", "Mobile App Development"],
+      "email": "neha.jain@example.com",
+      "skills": ["Swift", "iOS Development", "Xcode"],
+      "profilePicture": "https://randomuser.me/api/portraits/women/10.jpg",
       "address": {
         "city": "Chennai",
         "state": "Tamil Nadu"
