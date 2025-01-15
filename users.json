@@ -1,0 +1,114 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Irfan Khan",
+      "age": 25,
+      "email": "irfan.khan@example.com",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "address": {
+        "city": "Sohna",
+        "state": "Haryana"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ayesha Sharma",
+      "age": 27,
+      "email": "ayesha.sharma@example.com",
+      "skills": ["React", "Node.js", "MongoDB"],
+      "address": {
+        "city": "Mumbai",
+        "state": "Maharashtra"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rahul Verma",
+      "age": 30,
+      "email": "rahul.verma@example.com",
+      "skills": ["Python", "Django", "Machine Learning"],
+      "address": {
+        "city": "Delhi",
+        "state": "Delhi"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Sofia Ali",
+      "age": 23,
+      "email": "sofia.ali@example.com",
+      "skills": ["Figma", "Photoshop", "UI/UX Design"],
+      "address": {
+        "city": "Hyderabad",
+        "state": "Telangana"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Arjun Singh",
+      "age": 29,
+      "email": "arjun.singh@example.com",
+      "skills": ["Java", "Spring Boot", "Hibernate"],
+      "address": {
+        "city": "Pune",
+        "state": "Maharashtra"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Priya Menon",
+      "age": 26,
+      "email": "priya.menon@example.com",
+      "skills": ["Angular", "TypeScript", "RxJS"],
+      "address": {
+        "city": "Bangalore",
+        "state": "Karnataka"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Mohammed Faisal",
+      "age": 24,
+      "email": "faisal.mohammed@example.com",
+      "skills": ["PHP", "Laravel", "MySQL"],
+      "address": {
+        "city": "Lucknow",
+        "state": "Uttar Pradesh"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Anjali Gupta",
+      "age": 28,
+      "email": "anjali.gupta@example.com",
+      "skills": ["SEO", "Content Writing", "Digital Marketing"],
+      "address": {
+        "city": "Jaipur",
+        "state": "Rajasthan"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Ravi Patel",
+      "age": 31,
+      "email": "ravi.patel@example.com",
+      "skills": ["C#", ".NET Core", "Azure"],
+      "address": {
+        "city": "Ahmedabad",
+        "state": "Gujarat"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Neha Reddy",
+      "age": 22,
+      "email": "neha.reddy@example.com",
+      "skills": ["Flutter", "Dart", "Mobile App Development"],
+      "address": {
+        "city": "Chennai",
+        "state": "Tamil Nadu"
+      }
+    }
+  ]
+}
